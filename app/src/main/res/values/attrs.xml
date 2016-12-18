@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--弹幕属性-->
+    <declare-styleable name="DanmakuView">
+        <attr name="item_spacing_time" format="integer"/>       <!--取每条数据的间隔-->
+        <attr name="item_background" format="reference"/>   <!--弹幕item的背景色-->
+    </declare-styleable>
+
+</resources>
